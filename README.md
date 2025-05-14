@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/codewithkenzo-mcp-router-badge.png)](https://mseep.ai/app/codewithkenzo-mcp-router)
+
 # MCP Router
 
 MCP Router is a Python package for interacting with Model Context Protocol (MCP) servers with OpenRouter LLM integration. It provides a backend for managing MCP servers, executing agent-based tasks, and orchestrating complex workflows using the Upsonic framework.
